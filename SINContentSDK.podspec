@@ -8,6 +8,6 @@ s.license               = { :type => 'MIT', :file => 'LICENSE' }
 s.author                = { 'wangfei' => 'feiwang216830@sohu-inc.com','xiaoxiao' => 'shawnxiao@sohu-inc.com' }
 s.source                = { :git => 'https://github.com/sohuinfonews/infonews_content_ios_sdk.git', :tag => s.version.to_s }
 s.platform              = :ios, '9.0'
-s.resource              = 'SINAdFramework/SINContent.bundle'
-s.vendored_frameworks   = 'SINAdFramework/SINSSPADFramework.framework', 'SINAdFramework/SINContent.framework'
+s.resource              = 'SINContentFramework/SINContent.bundle'
+s.vendored_frameworks   = 'SINContentFramework/SINSSPADFramework.framework', 'SINContentFramework/SINContentFramework.framework'
 end
