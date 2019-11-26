@@ -1,0 +1,6 @@
+framework module SINSSPADFramework {
+  umbrella header "SINSSPADFramework.h"
+
+  export *
+  module * { export * }
+}

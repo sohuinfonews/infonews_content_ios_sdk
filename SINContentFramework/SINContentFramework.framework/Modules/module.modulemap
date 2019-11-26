@@ -1,0 +1,6 @@
+framework module SINContentFramework {
+  umbrella header "SINContentFramework.h"
+
+  export *
+  module * { export * }
+}
