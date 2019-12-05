@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name                  = 'SINContentSDK'
-s.version               = '0.1.2'
+s.version               = '0.1.3'
 s.summary               = '搜狐内容联盟广告sdk'
 s.homepage              = 'https://github.com/sohuinfonews/infonews_content_ios_sdk'
 s.description           = 'DESC infonews_content_ios_sdk pod.DESC'
