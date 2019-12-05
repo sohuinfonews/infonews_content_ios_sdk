@@ -62,11 +62,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fsLQlF2IspMIR1l7J13SbCumEKc=
+		Ou0XhkdjBfY0n1IBqFMyQds5eHk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		dAO1QQQKRL/vQooS/1+2MeKlefA=
+		</data>
+		<key>SBNWKBridge.js</key>
+		<data>
+		8b1aafVITV7rSlZy5EZrhEHWTik=
+		</data>
+		<key>bg_skip@2x.png</key>
+		<data>
+		+ZMf5rZVUoNFagyGpPZBWMyCfic=
+		</data>
+		<key>bg_skip@3x.png</key>
+		<data>
+		fVQltUbnxMHv3gP163FzDctiCHE=
 		</data>
 		<key>ic_back_black_normal@2x.png</key>
 		<data>
@@ -434,6 +446,39 @@
 			<key>hash2</key>
 			<data>
 			AeKenRctGVjnokdMBli4sGmcSPhZ+qQxq0lYLPPZHww=
+			</data>
+		</dict>
+		<key>SBNWKBridge.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8b1aafVITV7rSlZy5EZrhEHWTik=
+			</data>
+			<key>hash2</key>
+			<data>
+			wbYgerMGLsFxRiNRKsSx9PrCK40MIeVpcUcUHQ+bJOA=
+			</data>
+		</dict>
+		<key>bg_skip@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+ZMf5rZVUoNFagyGpPZBWMyCfic=
+			</data>
+			<key>hash2</key>
+			<data>
+			3HzjhH+zhArUdRcppr6jxND7mLOHp5Jnl/59x3tRc+M=
+			</data>
+		</dict>
+		<key>bg_skip@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fVQltUbnxMHv3gP163FzDctiCHE=
+			</data>
+			<key>hash2</key>
+			<data>
+			SyX7qOBEqSOw3LFkEBO8PmPNeZbDsd5FkOsYPv0A2So=
 			</data>
 		</dict>
 		<key>ic_back_black_normal@2x.png</key>
